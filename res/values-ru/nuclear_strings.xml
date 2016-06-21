@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Proximity sensor enable -->
+    <string name="proximity_mode_title">Включить датчик приближения</string>
+    <string name="proximity_on_summary">Когда происходит вызов, использовать датчик приближения, чтобы выключить экран</string>
+    <string name="proximity_off_summary">Когда происходит вызов, экран будет включен</string>
+
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Настройки громкой связи по датчику приближения</string>
+    <string name="prox_auto_speaker_title">Громкая связь по датчику приближения</string>
+    <string name="prox_auto_speaker_summary">Включение громкой связи, когда устройство отдаляется от вашего лица</string>
+    <string name="prox_auto_speaker_delay_title">Задержка включения громкой связи</string>
+    <string name="prox_auto_speaker_delay_summary">Задержка перед активацией громкой связи</string>
+    <string name="prox_auto_speaker_incall_only_title">Только при исходящем вызове</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">При исходящих вызовах, слушатель становятся активными только после того, как получающая сторона ответит</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Слушатель будет активен во время вызова от состояний крюка вызова (По умолчанию)</string>
+</resources>
